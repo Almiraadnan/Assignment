@@ -1,0 +1,5 @@
+name = input("Enter your full name :")
+upper = name.upper()
+print(upper)
+number = int(input("Enter your favourite number :"))
+print("Your favorite number multiplied by 2 is ",number*2)
